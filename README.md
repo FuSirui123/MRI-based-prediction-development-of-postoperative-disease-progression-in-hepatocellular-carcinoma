@@ -1,2 +1,2 @@
 # MRI-based-prediction-development-of-postoperative-disease-progression-in-hepatocellular-carcinoma
-MRI-based quantitative and qualitative analysis to predict development of postoperative disease progression in hepatocellular carcinoma: a multicenter study
+Quantitative and qualitative magnetic resonance imaging-based analysis to predict postoperative disease progression in hepatocellular carcinoma
